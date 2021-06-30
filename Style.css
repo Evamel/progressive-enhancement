@@ -1,0 +1,73 @@
+p{
+    color:darkslategray;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 1px;
+}
+
+a:hover{
+    background-color: grey;
+}
+
+a:visited{
+    color:firebrick;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: linear-gradient(#E8F0F6, #67A1DB);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+q{
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 160%;
+    font-style: italic;
+    background-color: lightslategray;
+    border-left: solid 3px black;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-spacing: 30px;
+}
+
+.village{
+    border-left: solid 3px darkred;
+}
+
+.farmer{
+    border-left: solid 3px darkslategrey;
+}
+
+figcaption{
+    background-color: brown;
+}
+
+.good{
+    color: green;
+}
+
+.bad{
+    color: red;
+}
+
+img{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+footer{
+    background-color: slategrey;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+     width: 50%;
+}
+
+
+/* background-image: url("champs.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: cover; */
